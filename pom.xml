@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>registration-login-spring-boot-security-thymeleaf</artifactId>
+	<artifactId>registration_login</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-login</name>
+	<name>registration_login</name>
 	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
 
 	<properties>

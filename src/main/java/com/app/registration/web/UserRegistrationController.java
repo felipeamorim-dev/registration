@@ -1,4 +1,4 @@
-package net.javaguides.springboot.web;
+package com.app.registration.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import net.javaguides.springboot.service.UserService;
-import net.javaguides.springboot.web.dto.UserRegistrationDto;
+import com.app.registration.service.UserService;
+import com.app.registration.web.dto.UserRegistrationDto;
 
 @Controller
 @RequestMapping("/registration")

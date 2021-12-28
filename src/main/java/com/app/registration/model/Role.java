@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package com.app.registration.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

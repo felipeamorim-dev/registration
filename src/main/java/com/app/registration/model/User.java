@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package com.app.registration.model;
 
 import java.util.Collection;
 

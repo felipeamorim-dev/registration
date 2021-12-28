@@ -9,10 +9,10 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.javaguides</groupId>
+	<groupId>com.app</groupId>
 	<artifactId>registration-login-spring-boot-security-thymeleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-login-spring-boot-security-thymeleaf</name>
+	<name>registration-login</name>
 	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
 
 	<properties>

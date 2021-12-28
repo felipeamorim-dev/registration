@@ -1,10 +1,10 @@
-package com.app.registration_login;
+package net.javaguides.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistrationLoginApplicationTests {
+class RegistrationLoginSpringBootSecurityThymeleafApplicationTests {
 
 	@Test
 	void contextLoads() {
